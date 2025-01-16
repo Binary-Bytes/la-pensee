@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dumb on la pensée</title>
+    <link>http://localhost:1313/tags/dumb/</link>
+    <description>Recent content in Dumb on la pensée</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dumb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technically, the probability of everything is just 50/50; or is it?</title>
+      <link>http://localhost:1313/posts/50_50/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/50_50/</guid>
+      <description>Either &amp;lsquo;xyz&amp;rsquo; happens, or it does not happen. 50-50!</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-gb'
+title = 'la pensée'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Meta description
+description = "A Tech Blog"
+singleDateFormat = '2 January 2006'
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+# default;
+# catpuccin;
+# gruvebox;
+# eink.
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'hello world'
+homeIntroContent = """
+Welcome to **_la pensée_**, my little place on the internet where I would like to share my random musings, ideas and thoughts that I find interesting to ponder about. This blog was built partly because I was bored, partly because I was fed up from studying all the time, and mostly because it feels good to put my thoughts out there; after all, it's better than mindlessly scrolling on YouTube.
+
+I have tried my best to maintain a simple and minimalistic design as I want this blog to be a place where I can freely share my thoughts and ideas without any distractions.
+
+Stick around, read a bit, and maybe you'll find something interesting here too.
+"""
+
+# Collection to display on home
+# homeCollectionTitle = 'posts'
+# homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "github"
+url = "https://github.com/Binary-Bytes/la-pensee/"
+
+[[params.social]]
+name = "rss"
+url = "/index.xml"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# [[params.menu]]
+# name = "tags"
+# url = "/tags"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+[params.giscus]
+enable = true
+repo = "Binary-Bytes/la-pensee"
+repoid = "R_kgDONqhs5Q"
+category = "General"
+categoryid = "DIC_kwDONqhs5c4CmBVf"
+mapping = "pathname"
+theme = "preferred_color_scheme"
