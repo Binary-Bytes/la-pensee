@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on la pensée</title>
-    <link>http://localhost:1313/la-pensee/</link>
+    <link>https://binary-bytes.github.io/la-pensee/</link>
     <description>Recent content in Home on la pensée</description>
     <generator>Hugo</generator>
-    <language>en-gb</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/la-pensee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://binary-bytes.github.io/la-pensee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technically, the probability of everything is just 50/50; or is it?</title>
-      <link>http://localhost:1313/la-pensee/posts/50_50/</link>
+      <link>https://binary-bytes.github.io/la-pensee/posts/50_50/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/la-pensee/posts/50_50/</guid>
+      <guid>https://binary-bytes.github.io/la-pensee/posts/50_50/</guid>
       <description>Either &amp;lsquo;xyz&amp;rsquo; happens, or it does not happen. 50-50!</description>
     </item>
     <item>
       <title>about</title>
-      <link>http://localhost:1313/la-pensee/about/</link>
+      <link>https://binary-bytes.github.io/la-pensee/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/la-pensee/about/</guid>
+      <guid>https://binary-bytes.github.io/la-pensee/about/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Make stuff you love and talk about stuff you love and you’ll attract people who love that kind of stuff. It’s that simple.” &lt;strong&gt;―Austin Kleon, &amp;ldquo;Show Your Work!&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hello there, fellow reader, and welcome to &lt;strong&gt;&lt;em&gt;la pensée&lt;/em&gt;&lt;/strong&gt;.&lt;br&gt;&#xA;This blog is my little place on the internet where I would like to share my random musings, ideas and thoughts that I find interesting to ponder about. Some thoughts might be philosophical, others are just quirky, but all of them reflect the way I see the world.&lt;/p&gt;</description>
     </item>
   </channel>

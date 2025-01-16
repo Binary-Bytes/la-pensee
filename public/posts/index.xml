@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>posts on la pensée</title>
-    <link>http://localhost:1313/la-pensee/posts/</link>
+    <link>https://binary-bytes.github.io/la-pensee/posts/</link>
     <description>Recent content in posts on la pensée</description>
     <generator>Hugo</generator>
-    <language>en-gb</language>
+    <language>en-us</language>
     <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/la-pensee/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://binary-bytes.github.io/la-pensee/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technically, the probability of everything is just 50/50; or is it?</title>
-      <link>http://localhost:1313/la-pensee/posts/50_50/</link>
+      <link>https://binary-bytes.github.io/la-pensee/posts/50_50/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/la-pensee/posts/50_50/</guid>
+      <guid>https://binary-bytes.github.io/la-pensee/posts/50_50/</guid>
       <description>Either &amp;lsquo;xyz&amp;rsquo; happens, or it does not happen. 50-50!</description>
     </item>
   </channel>

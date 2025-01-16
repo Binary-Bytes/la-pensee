@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/la-pensee/tags/dumb/</loc>
+    <loc>https://binary-bytes.github.io/la-pensee/tags/dumb/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/la-pensee/</loc>
+    <loc>https://binary-bytes.github.io/la-pensee/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/la-pensee/posts/</loc>
+    <loc>https://binary-bytes.github.io/la-pensee/posts/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/la-pensee/tags/</loc>
+    <loc>https://binary-bytes.github.io/la-pensee/tags/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/la-pensee/posts/50_50/</loc>
+    <loc>https://binary-bytes.github.io/la-pensee/posts/50_50/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/la-pensee/about/</loc>
+    <loc>https://binary-bytes.github.io/la-pensee/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/la-pensee/g-xxxxxxxxx/</loc>
+    <loc>https://binary-bytes.github.io/la-pensee/g-xxxxxxxxx/</loc>
   </url>
 </urlset>
