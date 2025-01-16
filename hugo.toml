@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://binary-bytes.github.io/la-pensee/'
 languageCode = 'en-gb'
 title = 'la pensée'
 theme = 'typo'
