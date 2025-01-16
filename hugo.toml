@@ -63,7 +63,7 @@ url = "/la-pensee/index.xml"
 
 # Main menu pages
 [[params.menu]]
-name = "la pensée"
+name = "home"
 url = "/la-pensee/"
 
 [[params.menu]]
