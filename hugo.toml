@@ -4,6 +4,8 @@ languageCode = 'en-us'
 title = 'la pensée'
 theme = 'typo'
 
+enableRobotsTXT = true
+
 [taxonomies]
 tag = 'tags'
 
